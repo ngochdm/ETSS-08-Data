@@ -6,11 +6,15 @@
 
 
 # Traffic Surveillance Dataset
+
 Traffic Surveillance Data Generation capable of producing various environment record on road by using Carla.
 
 ![gif](attachments/traffic_surveillance_intersection.gif)
 
-### I. Building CARLA
+## I. Using CARLA
+
+### 1. Building CARLA
+
 Use `git clone` or download the project from [CARLA Github][carlagithublink].
 
 Then follow the instruction at [How to build on Linux][buildlinuxlink] or [How to build on Windows][buildwindowslink].
