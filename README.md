@@ -45,4 +45,9 @@ Please go to this repository for [Realistic-Traffic-Surveillance Generated Sampl
 
 ## Citation 
 
-TBA ...  
+If you find our work useful, please cite the following:
+...
+
+## License
+
+Both the code and the weights pretrained on the COCO dataset are released under the [Apache 2.0 license](https://github.com/SKKUAutoLab/ETSS-08-Data/blob/main/LICENSE).
