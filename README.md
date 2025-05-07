@@ -37,17 +37,28 @@ patch --strip=4 < ~/430667-13636743-patch.txt
 
 
 ### II. Instruction
-Please refer to [INSTRUCTION.md](/Instruction.md) for how to use.
+Please refer to [INSTRUCTION.md](DataGeneration-CARLA/Instruction.md) for how to use.
 
 
 ### III. Sample
 Please go to this repository for [Realistic-Traffic-Surveillance Generated Sample](https://github.com/SKKU-AutoLab-VSW/Realistic-Traffic-Surveillance_GeneratedSample)
 
+
 ## Citation 
 
-If you find our work useful, please cite the following:
-...
+If you find our work helpful for your research, please consider citing the following BibTeX entry.
+
+```bibtex
+@misc{AutoLab-Dataset-CARLA,
+  author = {Automation Laboratory},
+  license = {Apache-2.0},
+  title = {Traffic Surveillance Dataset},
+  howpublished = {\url{https://github.com/SKKUAutoLab/ETSS-08-Data}},
+  year = {2025},
+  note = {Data Generation using Carla}
+}
+```
 
 ## License
 
-Both the code and the weights pretrained on the COCO dataset are released under the [Apache 2.0 license](https://github.com/SKKUAutoLab/ETSS-08-Data/blob/main/LICENSE).
+Both the code and the weights pretrained on the COCO dataset are released under the [Apache 2.0 license](/LICENSE).
