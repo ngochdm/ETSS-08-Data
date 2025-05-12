@@ -13,36 +13,41 @@ Traffic Surveillance Data Generation capable of producing various environment re
 
 ## I. Using CARLA
 
-### 1. Building CARLA
+<details open>
 
-Use `git clone` or download the project from [CARLA Github][carlagithublink].
+  <summary>Building CARLA, Instruction, and samples</summary>
 
-Then follow the instruction at [How to build on Linux][buildlinuxlink] or [How to build on Windows][buildwindowslink].
+  ### 1. Building CARLA
 
-The Linux build needs for an UE patch to solve some visualization issues regarding Vulkan. Those already working with a Linux build should install the patch and make the UE build again using the following commands.
+  Use `git clone` or download the project from [CARLA Github][carlagithublink].
 
-```sh
-# Download and install the UE patch  
-cd ~/UnrealEngine_4.24
-wget https://carla-releases.s3.eu-west-3.amazonaws.com/Linux/UE_Patch/430667-13636743-patch.txt ~/430667-13636743-patch.txt
-patch --strip=4 < ~/430667-13636743-patch.txt
+  Then follow the instruction at [How to build on Linux][buildlinuxlink] or [How to build on Windows][buildwindowslink].
 
-# Build UE
-./Setup.sh && ./GenerateProjectFiles.sh && make
-```
+  The Linux build needs for an UE patch to solve some visualization issues regarding Vulkan. Those already working with a Linux build should install the patch and make the UE build again using the following commands.
 
-[carlagithublink]: https://github.com/carla-simulator/carla
-[buildlinuxlink]: https://carla.readthedocs.io/en/latest/build_linux/
-[buildwindowslink]: https://carla.readthedocs.io/en/latest/build_windows/
+  ```sh
+  # Download and install the UE patch  
+  cd ~/UnrealEngine_4.24
+  wget https://carla-releases.s3.eu-west-3.amazonaws.com/Linux/UE_Patch/430667-13636743-patch.txt ~/430667-13636743-patch.txt
+  patch --strip=4 < ~/430667-13636743-patch.txt
+
+  # Build UE
+  ./Setup.sh && ./GenerateProjectFiles.sh && make
+  ```
+
+  [carlagithublink]: https://github.com/carla-simulator/carla
+  [buildlinuxlink]: https://carla.readthedocs.io/en/latest/build_linux/
+  [buildwindowslink]: https://carla.readthedocs.io/en/latest/build_windows/
 
 
-### II. Instruction
-Please refer to [INSTRUCTION.md](DataGeneration-CARLA/Instruction.md) for how to use.
+  ### 2. Instruction
+  Please refer to [INSTRUCTION.md](DataGeneration-CARLA/Instruction.md) for how to use.
 
 
-### III. Sample
-Please go to this repository for [Realistic-Traffic-Surveillance Generated Sample](https://github.com/SKKU-AutoLab-VSW/Realistic-Traffic-Surveillance_GeneratedSample)
+  ### 3. Sample
+  Please go to this repository for [Realistic-Traffic-Surveillance Generated Sample](https://github.com/SKKU-AutoLab-VSW/Realistic-Traffic-Surveillance_GeneratedSample)
 
+</details open>
 
 ## Citation 
 
