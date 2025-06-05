@@ -9,7 +9,7 @@
 
 1. Traffic Surveillance Data Generation capable of producing various environment record on road by using Carla.
 
-![gif](attachments/traffic_surveillance_intersection.gif)
+  ![gif](attachments/traffic_surveillance_intersection.gif)
 
 2. Real-world traffic surveillance systems
 
@@ -49,7 +49,7 @@
 
 
   ### 3. Sample
-  
+
   Please go to this repository for [Realistic-Traffic-Surveillance Generated Sample](https://github.com/SKKU-AutoLab-VSW/Realistic-Traffic-Surveillance_GeneratedSample)
 
 </details open>
