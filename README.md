@@ -1,6 +1,7 @@
 ### Automation Lab, Sungkyunkwan University
 
 #### GitHub Stats
+
 ![](https://img.shields.io/github/downloads/SKKU-AutoLab-VSW/ETSS-08-Data/total.svg?style=for-the-badge)
 
 
