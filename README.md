@@ -77,6 +77,7 @@ If you find our work helpful for your research, please consider citing the follo
 }
 ```
 
+
 ## IV. License
 
 Both the code and the weights pretrained on the COCO dataset are released under the [Apache 2.0 license](/LICENSE).
