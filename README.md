@@ -63,7 +63,7 @@
 
 We are conducting research to develop a real-world traffic surveillance system.
 
-Read the Introduction file for more details.
+Read the [Introduction][RealWorldSystem/README.md] for more details.
 
 
 ## III. Citation 
