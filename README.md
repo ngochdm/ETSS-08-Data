@@ -48,7 +48,7 @@
   [buildlinuxlink]: https://carla.readthedocs.io/en/latest/build_linux/
   [buildwindowslink]: https://carla.readthedocs.io/en/latest/build_windows/
   
-  
+
   Please refer to [INSTRUCTION.md](DataGeneration-CARLA/Instruction.md) for how to use.
 
 
@@ -62,6 +62,8 @@
 ## II. Real-world System
 
 We are conducting research to develop a real-world traffic surveillance system.
+
+Read the Introduction file for more details.
 
 
 ## III. Citation 
