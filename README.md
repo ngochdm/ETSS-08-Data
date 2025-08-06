@@ -33,7 +33,7 @@ Upcoming...
   The Linux build needs for an UE patch to solve some visualization issues regarding Vulkan. Those already working with a Linux build should insta
 
 
-  ### 2. Instructionll the patch and make the UE build again using the following commands.
+  ### 2. Instruction the patch and make the UE build again using the following commands.
 
   ```sh
   # Download and install the UE patch  
