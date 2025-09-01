@@ -62,7 +62,7 @@ Upcoming...
 
 ## II. Real-world System
 
-We are conducting research to develop a real-world traffic surveillance system.
+We are conducting a research to develop a real-world traffic surveillance system.
 
 Read the [Introduction](RealWorldSystem/README.md) for more details.
 
