@@ -4,4 +4,4 @@ We are conducting research to develop a real-world traffic surveillance system.
 
 # Installation
 
-To execute the Python source code for processing the dataset, install the `ultralytics` package and additional libraries use `pip`.
+To execute the Python source code for processing the dataset, install the required libraries use `pip`.
